@@ -2,10 +2,16 @@
 ButtonのUIControl.Eventのtouchイベントを確認できるプロジェクトです。
 
 # イベントの種類
-touchDown\n
+touchDown
+
 touchUpInside
+
 touchUpOutside
+
 touchDragEnter
+
 touchDragExit
+
 touchDragInside
+
 touchDragOutside
