@@ -1,9 +1,8 @@
 # UIControl.Event_Practice
-# UIControl.Event_Practice
 ButtonのUIControl.Eventのtouchイベントを確認できるプロジェクトです。
 
 # イベントの種類
-touchDown
+touchDown\n
 touchUpInside
 touchUpOutside
 touchDragEnter
